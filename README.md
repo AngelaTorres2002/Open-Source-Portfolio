@@ -2,7 +2,7 @@
 My First Portfolio, experimenting with HTML5, CSS6, Sass and Bootstrap.
 
 
-Troubleshooting for this project was done by Peer Revision & in the absence of my collaborators CHATGPT was used for help. 
+Troubleshooting for this project was done using Peer Revision & in their absence CHATGPT was used. 
 <a href="INSERT/Preview/Live/Here">Preview using Github Pages</a>
 
 </hr>
