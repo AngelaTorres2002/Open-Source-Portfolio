@@ -15,3 +15,4 @@ this is my first Project, where I will expereiment with the following.
 | ❌ | WCAG Compliant  | `in progress` |  `in progress` |
 | ❌ | Header Slideshow implimented using Bootstrap  | `in progress` |  `in progress` |
 | ❌ | Footer implimented using Bootstrap  | `in progress` |  `in progress` |
+| ❌ | Create a grid of thumbnails to display future projects  | `in progress` |  `in progress` |
