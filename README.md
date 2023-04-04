@@ -24,3 +24,4 @@ Troubleshooting for this project was done using Peer Revision & in their absence
 | ❌ | Impliment Hover Styles for the thumbnails where they scale  | `in progress` |  `in progress` |
 | ❌ | Create a contact form on the bottom of the home page  | `in progress` |  `in progress` |
 | ❌ | Validate Code and Make sure it meets WCAG Guidelines  | `in progress` |  `in progress` |
+| ❌ | Update About Section  | `in progress` |  `in progress` |
