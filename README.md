@@ -1,5 +1,6 @@
 <h1>Open Source Portfolio</h1>
-this is my first Project, where I will expereiment with the following.
+My First Portfolio, experimenting with HTML5, CSS6, Sass and Bootstrap.JS
+
 </hr>
 
 # Technologies Used
