@@ -1,8 +1,8 @@
 <h1>Open Source Portfolio</h1>
 My First Portfolio, experimenting with HTML5, CSS6, Sass and Bootstrap.
 
-
 Troubleshooting for this project was done using Peer Revision & in their absence CHATGPT was used. 
+
 <a href="INSERT/Preview/Live/Here">Preview using Github Pages</a>
 
 </hr>
