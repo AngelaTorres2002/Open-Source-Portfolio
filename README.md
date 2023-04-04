@@ -1,5 +1,6 @@
 <h1>Open Source Portfolio</h1>
-My First Portfolio, experimenting with HTML5, CSS6, Sass and Bootstrap.JS
+My First Portfolio, experimenting with HTML5, CSS6, Sass and Bootstrap.
+Troubleshooting for this project was done by Peer Revision & in the absence of my collaborators CHATGPT was used for help. 
 
 </hr>
 
