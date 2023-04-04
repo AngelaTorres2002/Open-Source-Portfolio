@@ -14,3 +14,4 @@ this is my first Project, where I will expereiment with the following.
 | ❌ | Create Nav Bar with id links | `in progress` |  `in progress` |
 | ❌ | WCAG Compliant  | `in progress` |  `in progress` |
 | ❌ | Header Slideshow implimented using Bootstrap  | `in progress` |  `in progress` |
+| ❌ | Footer implimented using Bootstrap  | `in progress` |  `in progress` |
