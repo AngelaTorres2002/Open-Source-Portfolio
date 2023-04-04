@@ -11,5 +11,5 @@ this is my first Project, where I will expereiment with the following.
 | :---: | :--- | --- | --- |
 | ✔ | Repository Created | `ready` | <a href='https://github.com/AngelaTorres2002/Open-Source-Portfolio'>Live</a> |
 | ❌ | Create Live Preview | `in progress` |  `in progress` |
-| ❌ | Autopanning Thumbnail Display to Preview Projects | `in progress` |  `in progress` |
+| ❌ | Create Nav Bar with id links | `in progress` |  `in progress` |
 | ❌ | WCAG Compliant  | `in progress` |  `in progress` |
