@@ -9,7 +9,7 @@ this is my first Project, where I will expereiment with the following.
 
 | Status | Goal | Labels | Repository |
 | :---: | :--- | --- | --- |
-| ✔ | Dynamic Navigation | `ready` | <a href='https://github.com/elijahpereira/elijahpereira.github.io'>Live</a> |
-| ✔ | Responsive Mobile-First Styles | `ready` |  <a href='https://github.com/elijahpereira/elijahpereira.github.io'>Live</a> |
+| ✔ | Repository Created | `ready` | <a href='https://github.com/AngelaTorres2002/Open-Source-Portfolio'>Live</a> |
+| ❌ | Responsive Mobile-First Styles | `ready` |  <a href='https://github.com/elijahpereira/elijahpereira.github.io'>Live</a> |
 | ❌ | Autopanning Thumbnail Display to Preview Projects | `in progress` |  `in progress` |
 | ❌ | WCAG Compliant  | `in progress` |  `in progress` |
