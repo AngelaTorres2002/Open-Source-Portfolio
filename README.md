@@ -22,3 +22,4 @@ Troubleshooting for this project was done using Peer Revision & in their absence
 | ❌ | Footer implimented using Bootstrap  | `in progress` |  `in progress` |
 | ❌ | Create a grid of thumbnails to display future projects  | `in progress` |  `in progress` |
 | ❌ | Impliment Hover Styles for the thumbnails where they scale  | `in progress` |  `in progress` |
+| ❌ | Create a contact form on the bottom of the home page  | `in progress` |  `in progress` |
